@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Castle by the Sea](https://pixabay.com/photos/lighthouse-bridge-crossing-pier-6278951/)
